@@ -35,4 +35,4 @@ osx-openconnect-helper
 
     $ sudo openconnect-helper connect myvpn
 
-  It uses the OS X keychain to manage passwords.
+  It uses the OS X keychain to manage passwords. To add, pass the --password option to the connection
